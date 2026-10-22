@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Roast Room · Sala del consejo</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230c7a7c'/%3E%3Ccircle cx='32' cy='34' r='15' fill='none' stroke='%23eef3f7' stroke-width='5'/%3E%3Ccircle cx='32' cy='34' r='4' fill='%23eef3f7'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/sala.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="marca">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#0c7a7c"/><circle cx="16" cy="17" r="7.5" fill="none" stroke="#eef3f7" stroke-width="2.6"/><circle cx="16" cy="17" r="2" fill="#eef3f7"/></svg>
+      <span>Roast Room</span>
+    </div>
+    <ol class="ruta" id="ruta" aria-label="Avance del consejo">
+      <li data-paso="brief">Brief</li>
+      <li data-paso="ronda1">Aperturas</li>
+      <li data-paso="fracturas">Fracturas</li>
+      <li data-paso="ronda2">Debate</li>
+      <li data-paso="ronda3">Votación</li>
+      <li data-paso="sentencia">Veredicto</li>
+    </ol>
+    <nav class="acciones">
+      <button type="button" class="boton suave" id="btnGuia">Cómo funciona</button>
+      <button type="button" class="boton suave" id="btnHistorial">Sesiones</button>
+      <button type="button" class="boton suave" id="btnNueva" hidden>Salir</button>
+    </nav>
+  </header>
+
+  <section class="decision" id="decision" hidden>
+    <div class="decision-texto">
+      <small>En discusión</small>
+      <h1 id="decisionTitulo"></h1>
+    </div>
+    <ul class="opciones" id="opciones"></ul>
+  </section>
+
+  <main class="cuerpo">
+    <section class="escenario" id="escenario" aria-label="La mesa del consejo">
+      <div class="telon" aria-hidden="true"></div>
+      <div class="foco" id="foco" aria-hidden="true"></div>
+      <div class="avisos" id="avisos" aria-live="polite"></div>
+      <svg class="flechas" id="flechas" aria-hidden="true"></svg>
+      <div id="asientos"></div>
+      <div class="mesa" id="mesa" aria-hidden="true"></div>
+      <div id="placas"></div>
+      <div id="fichas"></div>
+
+      <div class="centro" id="centro">
+        <div class="inicio" id="inicio">
+          <span class="latido"><i></i>La sala está abierta</span>
+          <h2>Trae una decisión al Roast Room</h2>
+          <code>/roast-room ¿debería ...?</code>
+          <div class="fila">
+            <button type="button" class="boton primario" id="btnUltima">Ver la última sesión</button>
+            <button type="button" class="boton suave" id="btnGuia2">Qué poner en tu pregunta</button>
+          </div>
+        </div>
+        <div class="espera" id="espera" hidden aria-live="polite">
+          <div class="espera-cab"><span id="esperaPaso"></span><span id="esperaReloj"></span></div>
+          <p class="espera-titulo" id="esperaTitulo"></p>
+          <p class="espera-detalle" id="esperaDetalle"></p>
+          <p class="espera-pensando" id="esperaPensando"></p>
+          <div class="espera-barra"><i id="esperaAvance"></i></div>
+        </div>
+      </div>
+
+      <div class="panel-fracturas" id="fracturas" hidden></div>
+
+      <div class="mando" id="mando" hidden>
+        <button type="button" class="redondo" id="btnPausa" aria-label="Pausar o reanudar" title="Pausar (barra espaciadora)">❚❚</button>
+        <div class="velocidad" role="radiogroup" aria-label="Velocidad">
+          <button type="button" data-vel="1" aria-pressed="true">1x</button>
+          <button type="button" data-vel="1.6" aria-pressed="false">1,6x</button>
+          <button type="button" data-vel="2.5" aria-pressed="false">2,5x</button>
+        </div>
+        <button type="button" class="boton suave chico" id="btnSaltar" title="Saltar al final (flecha derecha)">Saltar</button>
+        <span class="cola" id="cola"></span>
+      </div>
+    </section>
+
+    <aside class="bitacora" aria-label="Bitácora del consejo">
+      <header id="bitacoraTitulo">Para empezar</header>
+      <div class="bitacora-cuerpo" id="bitacora"></div>
+    </aside>
+  </main>
+
+  <p class="pie">Asesores simulados construidos a partir de la obra pública de cada persona y dibujados como caricaturas. No son las personas ni hablan en su nombre.</p>
+
+  <div class="sentencia" id="sentencia" hidden><div class="sentencia-hoja" id="sentenciaHoja"></div></div>
+
+  <dialog id="dlgTarjeta" class="dialogo"><div id="tarjetaCuerpo"></div><form method="dialog"><button class="boton suave">Cerrar</button></form></dialog>
+  <dialog id="dlgGuia" class="dialogo"><div id="guiaCuerpo"></div><form method="dialog"><button class="boton suave">Cerrar</button></form></dialog>
+  <dialog id="dlgHistorial" class="dialogo">
+    <h3>Sesiones guardadas</h3>
+    <p class="tenue">Repite un consejo tal como ocurrió.</p>
+    <ul class="historial" id="historialLista"></ul>
+    <form method="dialog"><button class="boton suave">Cerrar</button></form>
+  </dialog>
+
+  <div class="aviso-flotante" id="toast" hidden></div>
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>

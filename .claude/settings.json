@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(/sessions/**)",
+      "Edit(/sessions/**)",
+      "Bash(mkdir -p sessions/:*)",
+      "Bash(node .claude/skills/roast-room/scripts/generate_report.mjs:*)"
+    ]
+  }
+}

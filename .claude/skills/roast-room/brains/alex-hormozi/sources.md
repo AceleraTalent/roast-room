@@ -1,0 +1,137 @@
+# Fuentes de Alex Hormozi
+
+124 fuentes, todas transcripciones de video (subtítulos automáticos de YouTube), cerca de 1.315.302 palabras, de 2020 a 2026. 115 son de su propio canal (70 videos largos destacados o recientes y 45 elegidos por tema: ofertas, leads, money models, precios, ventas, retención y escalamiento, incluido el lanzamiento de $100M Leads y el lanzamiento en vivo de 7 horas de $100M Money Models) y 9 son entrevistas largas como invitado (Diary of a CEO x3, My First Million x3, Modern Wisdom, Impact Theory, Iced Coffee Hour). No hay texto de los libros: los libros se cubren a través de cómo él mismo los enseña en público.
+
+Las fechas son de publicación en YouTube. Las citas vienen de subtítulos automáticos, así que la puntuación se agregó durante la extracción; las marcas de tiempo se refieren al video. Los títulos se dejan en su idioma original.
+
+Cómo leer esta lista: cada línea es `ID · fecha · título · enlace`. El ID es el que aparece entre corchetes en las citas de los demás archivos del brain. Las transcripciones no se guardan en este repositorio; para verificar una cita, abre el enlace y busca la frase.
+
+## Canal propio (115)
+
+- S001 · 2023-08-05 · How to get SO rich you question the meaning of making money · https://www.youtube.com/watch?v=RdAKXJlMIZM
+- S002 · 2023-11-08 · If I Wanted to Become a Millionaire In 2024, This is What I'd Do [FULL BLUEPRINT] · https://www.youtube.com/watch?v=VBoRLJimVzc
+- S003 · 2024-05-11 · 13 Years Of Brutally Honest Business Advice in 90 Mins · https://www.youtube.com/watch?v=KhFlD54nQrY
+- S004 · 2022-12-28 · Get RICH in the A.I. Revolution (2023) · https://www.youtube.com/watch?v=KYqEK_T_5M4
+- S005 · 2024-08-09 · 13 Years of No BS Business Advice in 79 Mins · https://www.youtube.com/watch?v=oRMG_HpOAN4
+- S006 · 2024-07-26 · How To Actually Get Rich In Your 20s · https://www.youtube.com/watch?v=aFoMYz_jWcs
+- S007 · 2023-12-09 · How to Win (At ANYTHING) · https://www.youtube.com/watch?v=MNll1BaskLA
+- S008 · 2021-12-31 · Watch these 55 minutes if you want to be a millionaire in 2022.. · https://www.youtube.com/watch?v=qxQIcDrre1E
+- S009 · 2024-06-21 · Sales Was Hard Until I Understood These 9 Concepts (elegido por tema) · https://www.youtube.com/watch?v=cy2k1GdA-9o
+- S010 · 2021-03-09 · 3 Simple Steps To Close Any Sale (elegido por tema) · https://www.youtube.com/watch?v=CojS0DwflXc
+- S011 · 2020-10-27 · How To Close Everyone Downselling Like A Pro (ALEX HORMOZI) (elegido por tema) · https://www.youtube.com/watch?v=gza5RtQCVsA
+- S012 · 2026-08-19 · How To Think Like The Top 1% / Sales Masterclass (elegido por tema) · https://www.youtube.com/watch?v=noE1MQPMvAc
+- S013 · 2024-06-30 · Business Owners: You NEED to Know This Number (elegido por tema) · https://www.youtube.com/watch?v=jzKpAtzKQ54
+- S014 · 2023-12-20 · Million Dollar Equations (elegido por tema) · https://www.youtube.com/watch?v=QGcjweehrvU
+- S015 · 2024-06-09 · Make More Profit than 99% of People (elegido por tema) · https://www.youtube.com/watch?v=41EvCgwPrDc
+- S016 · 2026-03-24 · How to Get Your Customers to Stay FOREVER (elegido por tema) · https://www.youtube.com/watch?v=-j8_YCWZ05Q
+- S017 · 2024-08-28 · Watch this to keep more customers (elegido por tema) · https://www.youtube.com/watch?v=afbP6sB_Atc
+- S018 · 2024-04-24 · 7 Ways to Get People to Buy More Times (elegido por tema) · https://www.youtube.com/watch?v=sPkMHh8zTMI
+- S019 · 2021-04-20 · 6 Hacks To Make More Money [Increase LTV] Without More Customers (elegido por tema) · https://www.youtube.com/watch?v=Q2VUuUGfpNY
+- S020 · 2025-07-09 · Making Money is a Game (Here's the Cheat Code) (elegido por tema) · https://www.youtube.com/watch?v=nSQdjim8CsE
+- S021 · 2026-02-23 · Why you aren't making as much money as you want (elegido por tema) · https://www.youtube.com/watch?v=ZuJryiwxjDw
+- S022 · 2026-01-14 · How To Grow ANY Business FASTER (Masterclass) (elegido por tema) · https://www.youtube.com/watch?v=qsXxckCbci0
+- S023 · 2024-12-16 · How To Get Customers So Fast It Feels ILLEGAL (elegido por tema) · https://www.youtube.com/watch?v=FMzKk73iUhw
+- S024 · 2026-01-30 · If I Wanted To Scale A Service Business In 2026, Here's What I'd Do (elegido por tema) · https://www.youtube.com/watch?v=N5MExtki_VI
+- S025 · 2020-12-08 · How to Scale Your Business Fast (elegido por tema) · https://www.youtube.com/watch?v=XZEjp2mP1U0
+- S026 · 2025-05-29 · How to Start a Business From Nothing (Thank Me Later) (elegido por tema) · https://www.youtube.com/watch?v=unshZobTt6Q
+- S027 · 2021-09-24 · How To Make BUCKETS of Money In SERVICE Businesses (elegido por tema) · https://www.youtube.com/watch?v=m-7VjocC76M
+- S028 · 2026-03-20 · Watch This If You Have a Service Business (elegido por tema) · https://www.youtube.com/watch?v=jqo0lVveh98
+- S029 · 2024-12-14 · If You Have Less Than $10,000 Saved. Please Watch This Video... · https://www.youtube.com/watch?v=ymFWgFiKUvM
+- S030 · 2025-03-17 · $100M Investor Answers The Most Important Business Questions for 1 Hour (elegido por tema) · https://www.youtube.com/watch?v=--9kOXNCUdE
+- S031 · 2024-07-20 · Learn Paid Ads in 30 Minutes! (elegido por tema) · https://www.youtube.com/watch?v=fSbqaTlWaYI
+- S032 · 2025-05-07 · 14 Years of Marketing Advice in 35 Minutes (elegido por tema) · https://www.youtube.com/watch?v=JDR-R--4HhM
+- S033 · 2024-06-18 · 7 Ways To Get Customers for Free (elegido por tema) · https://www.youtube.com/watch?v=qpQvdBFW_yI
+- S034 · 2026-03-27 · Helping E-Commerce Business Owners Scale (elegido por tema) · https://www.youtube.com/watch?v=8C_6qojTA78
+- S035 · 2021-01-28 · Recruiting and Hiring Tips - How to Hire The Best Employees (elegido por tema) · https://www.youtube.com/watch?v=cemduJKQl5w
+- S036 · 2022-02-23 · The first 5 hires EVERY entrepreneur should make...or go broke... (elegido por tema) · https://www.youtube.com/watch?v=7NqsFh5ej0w
+- S037 · 2021-10-11 · How to get unlimited funding to build your business in 30 days... (elegido por tema) · https://www.youtube.com/watch?v=DpbXWP8fLbc
+- S038 · 2022-07-12 · 10 KEYS to a TERRIBLE Business Partnership [GUARANTEED!] (elegido por tema) · https://www.youtube.com/watch?v=JShQ8BX08rs
+- S039 · 2026-08-26 · 14 Years of Actually Good Advice (elegido por tema) · https://www.youtube.com/watch?v=MPHn-nW30QU
+- S040 · 2021-11-10 · How I became #1 in a 'saturated' industry in my 20s... (elegido por tema) · https://www.youtube.com/watch?v=y3T4GqoH0Us
+- S041 · 2026-03-14 · If I Wanted To Grow An Audience In 2026, I'd Do This (elegido por tema) · https://www.youtube.com/watch?v=Jmkq5RLjm0U
+- S050 · 2025-12-06 · If I Started A Business in 2026, I'd Do This · https://www.youtube.com/watch?v=uWdIgftpvBI
+- S052 · 2025-01-02 · How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL · https://www.youtube.com/watch?v=HxEQCHpZzHk
+- S053 · 2024-12-23 · If you want 2026 to be the best year of your life. Please watch this video… · https://www.youtube.com/watch?v=6KqndZuN_Yk
+- S054 · 2024-06-26 · 'I'm Broke, What Business Do I Start?' · https://www.youtube.com/watch?v=nIk3DedjxJM
+- S055 · 2024-06-12 · You’re Wasting 80% of Your Time (here’s how to fix it) · https://www.youtube.com/watch?v=GIRkQQHzsxI
+- S056 · 2023-09-13 · How to Get Rich [Full Interview with Dave Ramsey] · https://www.youtube.com/watch?v=jvXOOddDg_s
+- S057 · 2023-07-05 · How to Get Ahead of 99% of People · https://www.youtube.com/watch?v=Nh8Oc7ERdIU
+- S058 · 2025-04-08 · Brutally Honest Truths That Give You an Unfair Advantage in Life · https://www.youtube.com/watch?v=MzAIP_WJ-jE
+- S059 · 2026-03-04 · If I Wanted to Make My First $100K in 2026, I’d Do This · https://www.youtube.com/watch?v=jfW6gL6hKhk
+- S060 · 2024-12-05 · How to Make Money So Fast It Feels ILLEGAL · https://www.youtube.com/watch?v=k-3PoOT4vOM
+- S061 · 2026-09-11 · Can I Save This Failing Theme Park in 90 Days? · https://www.youtube.com/watch?v=xRxVpjeHmeA
+- S062 · 2025-06-28 · If you're ambitious and in your 20s or 30s, please watch this. · https://www.youtube.com/watch?v=ub1D6RQocRU
+- S063 · 2024-04-20 · $100M CEO Explains How to Build A Brand in 2024 · https://www.youtube.com/watch?v=VQM3DrnVTcs
+- S064 · 2024-04-03 · Advice I Wish Someone Gave Me When I Was Broke · https://www.youtube.com/watch?v=oys_fv25SYM
+- S065 · 2023-10-18 · Brutally Honest Advice to My Younger Poorer Self · https://www.youtube.com/watch?v=ln24y0FPJHo
+- S066 · 2023-08-02 · Watch this to get your first 5 customers · https://www.youtube.com/watch?v=w7g08dVTwaE
+- S067 · 2024-10-16 · If I Wanted To Become a Millionaire in 2026, This Is What I'd Do [FULL BLUEPRINT] · https://www.youtube.com/watch?v=AN2KpRBsmRY
+- S068 · 2024-10-09 · After Closing 4000+ Sales, I Discovered a New Method to Close Deals Faster · https://www.youtube.com/watch?v=RVbvhPGFi6E
+- S069 · 2024-07-31 · How to Sell Better than 99% Of People (4 HOUR ULTIMATE GUIDE) · https://www.youtube.com/watch?v=JE2_7elAcxM
+- S070 · 2024-05-31 · 13 Years of Marketing Advice in 85 Mins · https://www.youtube.com/watch?v=reisEL_D7xc
+- S071 · 2024-01-03 · The Alex Hormozi Cookbook [REVEALED] · https://www.youtube.com/watch?v=hGX_z5rXRlU
+- S072 · 2022-05-03 · The Best SALES TRAINING On The Internet · https://www.youtube.com/watch?v=NcD2t9qt-fM
+- S073 · 2026-08-28 · How I Would Build a $10M Service Business (If I Had to Start Over) · https://www.youtube.com/watch?v=o64cI6tebnU
+- S074 · 2025-01-04 · The Ultimate Sales Training for 2026 [Full Course] · https://www.youtube.com/watch?v=StVqS0jD7Ls
+- S075 · 2025-10-28 · If You're in Your 20s or 30s, Here's How to Win (at Anything) · https://www.youtube.com/watch?v=0lMn_-EXyhQ
+- S076 · 2025-06-18 · You'll Find This Video When You Need it Most · https://www.youtube.com/watch?v=IFElGv5ZmRM
+- S077 · 2024-11-27 · No BS Advice to Get Rich Like the 1% · https://www.youtube.com/watch?v=oDK4g5na4Jw
+- S078 · 2023-02-22 · I Built 4 Businesses In A Row To Show It's Not Luck · https://www.youtube.com/watch?v=0mqqbuM9sAk
+- S079 · 2023-01-11 · Building a Frozen Yogurt Store in 11 Minutes · https://www.youtube.com/watch?v=xZ8d9g6BcKM
+- S080 · 2022-12-14 · The Best Student Side Hustle in 2026 · https://www.youtube.com/watch?v=CGSd00h-6zI
+- S081 · 2021-04-06 · 'I'm Broke... What Should I Do?' · https://www.youtube.com/watch?v=KNl83INePXI
+- S082 · 2024-11-13 · It's Actually Pretty Easy to Get Ahead of 99% of People · https://www.youtube.com/watch?v=TFxT3G5jwtU
+- S083 · 2024-09-04 · No BS Advice to Get Rich in the Next 10 Years · https://www.youtube.com/watch?v=oZ-H_TjSzok
+- S084 · 2024-07-02 · You're Not Behind: My System for Outworking Everyone · https://www.youtube.com/watch?v=gD0X-PLax5I
+- S085 · 2023-06-28 · My 12 Hour Work Day (in 15 Minutes) [Ep 003] · https://www.youtube.com/watch?v=lJF__n_34ew
+- S086 · 2022-09-18 · My Best Sales Tactic (to Make a TON of Money) · https://www.youtube.com/watch?v=bx48qPlaGvE
+- S087 · 2022-01-21 · 30 Minutes of sales training that will explode your business in 2022 · https://www.youtube.com/watch?v=oi7bnS8uyJM
+- S088 · 2024-01-13 · Brutally Honest Advice to my Poorer Younger Self · https://www.youtube.com/watch?v=DiQ3N8F1Hl8
+- S089 · 2025-06-12 · How I Would Build a Business in 2026 (If I Had to Start Over) · https://www.youtube.com/watch?v=i7bLRKwKSms
+- S090 · 2026-10-02 · 8 Entrepreneurs Compete For $100,000 · https://www.youtube.com/watch?v=eq1bnI0JoXU
+- S091 · 2026-09-25 · How to become rich with social media (my exact playbook) · https://www.youtube.com/watch?v=21flGkcZO3A
+- S092 · 2026-09-04 · This Video Should Be Required Viewing for Business Owners · https://www.youtube.com/watch?v=uaLNfijnp-8
+- S093 · 2026-08-27 · If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton · https://www.youtube.com/watch?v=SCi464zfAUM
+- S094 · 2026-08-21 · How to Get Rich for Service-Based Businesses (Thank Me Later) · https://www.youtube.com/watch?v=mRlSb0O5QNU
+- S095 · 2026-08-18 · It took me 37 years to realize what I'll tell you in 18 minutes. · https://www.youtube.com/watch?v=OHu1FY1R-x0
+- S096 · 2026-08-15 · My Actual Social Media Strategy For 2027 - The Algorithm · https://www.youtube.com/watch?v=ZTSI3DDP_4A
+- S097 · 2026-08-07 · $100M Worth of Marketing Knowledge in 32 Minutes / Scale or Fail · https://www.youtube.com/watch?v=B-ogfFiQpXg
+- S098 · 2026-07-24 · If You Hate Selling, Please Watch This / Scale or Fail · https://www.youtube.com/watch?v=8VqSFBMMS4M
+- S099 · 2026-07-18 · Why AI won't make you rich in 2026 · https://www.youtube.com/watch?v=WttZ6b-KUP4
+- S100 · 2026-07-10 · Building a $3,000,000 Business for a Stranger in 31 Minutes / Scale or Fail · https://www.youtube.com/watch?v=j2TZMFkj71Q
+- S101 · 2026-06-26 · Give Me 42 Minutes, I'll Show You How To Sell Like The Top 1% / Scale or Fail Episode 1 · https://www.youtube.com/watch?v=zzleYxkf39k
+- S102 · 2026-06-10 · How The Top 1% Actually Think About Trust · https://www.youtube.com/watch?v=k5-57282taI
+- S103 · 2026-06-04 · If You Want To Create Wealth In 2026, Watch This (4 Paths) · https://www.youtube.com/watch?v=sL16tsGafcQ
+- S104 · 2026-05-25 · The New Way of Making Content In The Age of AI · https://www.youtube.com/watch?v=XsWSvz-aewA
+- S105 · 2026-05-18 · How to Catch Up In Life (Using Logic) · https://www.youtube.com/watch?v=EonibwnAEME
+- S106 · 2026-05-08 · Building a $2,500,000 Business for a Stranger in 36 Minutes · https://www.youtube.com/watch?v=OQf2Ba-Lp_4
+- S107 · 2026-05-02 · What Makes The Perfect Business (5 Things) · https://www.youtube.com/watch?v=3fsJFUvA6Ts
+- S108 · 2026-04-24 · Helping 6 Business Owners Scale in 33 Minutes · https://www.youtube.com/watch?v=0EqJD2o-Mnk
+- S109 · 2026-04-21 · How to Use AI in Your Business in 2026 · https://www.youtube.com/watch?v=fr78adfAnuA
+- S110 · 2026-04-17 · How Acquisition.com Makes Money · https://www.youtube.com/watch?v=hHkdbr6_JJs
+- S111 · 2026-04-14 · Building a $1,000,000 Business for a Stranger in 26 Minutes · https://www.youtube.com/watch?v=HGZOxBfnF-E
+- S112 · 2023-08-19 · $100M Leads Launch (elegido por tema) · https://www.youtube.com/watch?v=k834E6OTGTM
+- S113 · 2025-08-16 · $100M Money Models Live Launch (elegido por tema) · https://www.youtube.com/watch?v=6_CCutkM11g
+- S114 · 2023-09-20 · This video will make you more money than anything else on the Internet (elegido por tema) · https://www.youtube.com/watch?v=4GjwtnA76ig
+- S115 · 2022-11-06 · This ONE Equation Will Make You RICH (elegido por tema) · https://www.youtube.com/watch?v=5MHQr-Z17Hc
+- S116 · 2025-11-08 · Watch This To Generate 1000s of Leads (In Any Niche) (elegido por tema) · https://www.youtube.com/watch?v=Mst4hreQYl0
+- S117 · 2020-11-05 · The Offer Is King (ALEX HORMOZI) (elegido por tema) · https://www.youtube.com/watch?v=pxVeOkOVr2w
+- S118 · 2022-07-07 · Applying $100M Offers to E-Commerce: I'm Pissed (elegido por tema) · https://www.youtube.com/watch?v=NA61omfYgvI
+- S119 · 2023-07-19 · Giving Away Free Stuff Will Make You Rich (elegido por tema) · https://www.youtube.com/watch?v=7NMH1oAkgLY
+- S120 · 2023-07-29 · My $100M Leads Affiliate Marketing Guide (elegido por tema) · https://www.youtube.com/watch?v=60_7PU9JDIw
+- S121 · 2024-06-04 · 10x Your Profit. 10x Your Pricing. 10x Your Business. [Here's how] (elegido por tema) · https://www.youtube.com/watch?v=9unucIBuNio
+- S122 · 2021-06-30 · How I RAISE PRICES without losing sales...(using this psychological trick) (elegido por tema) · https://www.youtube.com/watch?v=GO6VCcLlnLs
+- S123 · 2021-10-04 · NEVER lower your prices... (elegido por tema) · https://www.youtube.com/watch?v=BZQtuK-ucDM
+- S124 · 2021-06-02 · I Taught 116+ Salesmen My Closing Framework (elegido por tema) · https://www.youtube.com/watch?v=q32-l3Yoqg4
+
+## Entrevista como invitado (9)
+
+- S042 · 2025-02-13 · The Man That Makes Millionaires: Turn $0 to $10k With This Step By Step Formula! Alex Hormozi · https://www.youtube.com/watch?v=Kl-I7sUcAOY
+- S043 · 2023-04-03 · The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi / E235 · https://www.youtube.com/watch?v=x3e73Qn6NOo
+- S044 · 2026-07-20 · Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead! · https://www.youtube.com/watch?v=HwmwyBgzj8c
+- S045 · 2022-02-11 · From Broke At 26 To $100 Million Net Worth By 31 (Alex Hormozi Interview) · https://www.youtube.com/watch?v=4KfuQwB5rIs
+- S046 · 2025-08-06 · These 4 Math Equations Will Make You A Millionaire / Alex Hormozi · https://www.youtube.com/watch?v=TAXPyRnWwI0
+- S047 · 2023-06-06 · Alex Hormozi’s Plan To Grow Acquisition.com To $1 Billion (#462) · https://www.youtube.com/watch?v=ZMHpgu2C84I
+- S048 · 2024-01-29 · Most People Can’t Handle This Level of Honesty - Alex Hormozi (4K) · https://www.youtube.com/watch?v=Gk8EGWoGnEQ
+- S049 · 2025-01-14 · How To Make So Much Money It Feels Illegal (NO BS Way To Build $1,000,000 Business) / Alex Hormozi · https://www.youtube.com/watch?v=rRI0J8a4I9g
+- S051 · 2025-04-06 · Alex Hormozi: The #1 Strategy That Will Print MILLIONAIRES In 2025 · https://www.youtube.com/watch?v=q-_hwD1jNK4

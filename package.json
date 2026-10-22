@@ -1,0 +1,14 @@
+{
+  "name": "roast-room",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/AceleraTalent/roast-room.git" },
+  "description": "Consejo de cuatro asesores simulados (Hormozi, Musk, Vega y Borrero) que debate una decisión de negocio en Claude Code, con una sala web que reproduce la sesión.",
+  "type": "module",
+  "scripts": {
+    "start": "node sala/servidor.mjs",
+    "probar": "node sala/probar.mjs",
+    "report": "node .claude/skills/roast-room/scripts/generate_report.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

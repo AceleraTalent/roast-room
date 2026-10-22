@@ -1,0 +1,29 @@
+# Historias: Simón Borrero
+
+13 historias y casos que reutiliza, de la más contada a la menos. Las cifras son como él las cuenta; a veces varían entre versiones.
+
+1. **Seis descargas: el lanzamiento fallido y salir a la calle.** Después de ocho a diez meses construyendo la primera app, la lanzaron en el App Store esperando una avalancha. El lunes había seis descargas, "de mi tía y mi mamá". Para el jueves les pidió a todos, ingenieros incluidos, que cerraran los portátiles y salieran a la calle a convencer a desconocidos de descargarla. Esas conversaciones incómodas mostraron la necesidad real. Lección: ir al campo y prepararse para el rechazo. (S001, S002)
+
+2. **Donuts por descargas.** Con un equipo de unas ocho a diez personas, montaron stands en Bogotá y regalaban un donut a quien descargara Rappi. Un experto en marketing digital recién contratado estaba horrorizado ("no puedo creer que yo deje mi trabajo para venirme a repartir donuts") hasta que la idea le ganó a su plan en costo y terminó contratando a 150 personas para repartirlos. Lección: prueba la idea improvisada; los resultados le ganan a la sofisticación. (S001, S013)
+
+3. **57 fondos dijeron que no.** Diez meses después de la inversión de a16z, Rappi volvió a Silicon Valley quemando caja, con 400 a 500 personas que habían aceptado la mitad del salario. Unos 57 fondos dijeron que no; tras una noche llena de rechazos terminaron comiendo en un Wendy's rodeados de personas sin hogar y se preguntaron "¿qué nos pasó en la vida?". Luego Sequoia dijo que sí, su primera inversión en América Latina. (Otra versión habla de 42 fondos, S006.) Lección: solo necesitas un sí. (S001, S006)
+
+4. **Ben Horowitz y las historias de Narcos.** En unas office hours de YC, Ben Horowitz pasó 15 de 20 minutos hablando de la serie Narcos y le dio cinco minutos a Rappi. Simón esperó tres o cuatro horas al descanso de almuerzo de Horowitz, le abrió la puerta y le ofreció "dos historias de Pablo Escobar que solo saben los colombianos". Horowitz lo conectó con Jeff Jordan, lo que llevó a la inversión de a16z. Lección: agencia; agarra la oportunidad y no la sueltes. (S001)
+
+5. **Veinte días de caja.** Rappi estuvo cinco o seis veces al borde de la quiebra total; una vez, en diciembre, tenía 20 días de caja y 900 empleos en juego. Dice que estaba estresado pero sabía que lo iban a lograr, y que la responsabilidad con el equipo no lo dejaba decaer. Lección: la convicción y la responsabilidad te sacan de la cercanía de la muerte. (S001)
+
+6. **Del estudio de software a Grability y a Rappi.** Cuatro o cinco startups de la universidad fracasaron (entre ellas una agencia de modelos digital que registró de 3.000 a 4.500 modelos y no le consiguió trabajo a ninguno). Aprendió a programar de noche y montó un estudio de software con unos $300 que llegó a tener de 250 a 300 desarrolladores. Grability licenciaba una interfaz patentada de compras de supermercado a El Corte Inglés y a Reliance Industries en India. A los usuarios les encantaba la interfaz pero esperaban 24 horas el mercado, así que propuso Rappi; los socios le dijeron "absolutamente no" a dejar márgenes de software del 90% por la logística. Lección: empieza joven, sigue la fricción del usuario y sé terco. (S001, S002, S010, S011)
+
+7. **La entrevista de los 100 cupones.** A un candidato a líder comercial le estaban haciendo un examen de matemáticas para ingenieros. Simón lo sacó a la calle con 100 cupones cada uno: quien consiguiera más registros ganaba; si ganaba el candidato, quedaba contratado. Ganó y se volvió uno de los mejores líderes de Rappi. Lección: prueba a la gente en el trabajo real. (S001)
+
+8. **Las sillas Rimax.** Durante unos cinco años, ya con millones levantados, el equipo trabajó en sillas plásticas blancas baratas, sin cojín. Cuando un periodista le preguntó por qué, respondió que a nadie le importaba, porque estaban creciendo y aprendiendo; sin una meta común la gente empieza a comparar sillas. Lección: una meta grande compartida mata la política mezquina. (S001)
+
+9. **El congresista que los llamó esclavistas.** Tras años de semanas de domingo a domingo, se despertó con un tuit viral de un congresista colombiano que llamaba a Rappi "esclavistas". Su primer pensamiento fue dedicar su vida a meterlo a la cárcel; en 40 segundos, ya en la ducha, se dijo "Papito, tenés 1000 cosas para hacer hoy" y siguió. Lección: controla tus pensamientos; el éxito es la única venganza. (S001)
+
+10. **De Bogotá a Ciudad de México en cuatro meses.** Rappi lanzó en Bogotá en agosto de 2015 y en Ciudad de México en diciembre de 2015, con un aprendizaje "absolutamente insuficiente", haciendo "reuniones de parqueadero" semanales porque la oficina estaba llena. Lección: cuando el modelo claramente viene, muévete antes que los demás. (S001)
+
+11. **Turbo: entregas en menos de diez minutos.** Rappi construyó microbodegas, picking de 50 segundos y predicción de checkout (con Fountain9, una startup india de IA que adquirió) para que los repartidores hagan fila antes de que se haga el pedido. Más de 30 millones de pedidos llegaron en menos de 7 minutos; en Buenos Aires la gente divide el mercado del mes en unos 14 pedidos de Turbo. Lección: la confiabilidad a alta velocidad cambia el comportamiento. (S001, S015, S017)
+
+12. **De las pérdidas a la utilidad.** Rappi perdió dinero durante unos nueve años, eligió perder unos $30M al inicio de la pandemia en vez de subir tarifas, y luego reportó cuatro trimestres rentables a mediados de 2025 y una filial colombiana rentable en 2025. Lección: los unit economics y la madurez terminan pagando la quema. (S015, S016, S019)
+
+13. **La sandía y la caminata por el restaurante.** Le mandó una sandía a una mujer al otro lado de un restaurante; ella miró y se volteó. En vez de parar, caminó hasta su mesa, se sentó, y años después se casaron. Lección: salta al vacío; el rechazo no cuesta nada. (S001)
